@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @asif-0007
-- 👀 I’m interested in Programmng
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on WebD projects
 - 📫 Contact me though my email--- mohdasif4949@gmail.com
 
 <!---
